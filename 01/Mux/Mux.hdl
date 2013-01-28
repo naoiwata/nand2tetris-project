@@ -1,0 +1,16 @@
+/*
+ * Mux gate. 
+ * MUX = (or (and a (not sel)) (and b sel))
+*/
+
+CHIP Mux
+{
+	IN  a, b, sel;
+	OUT out;
+
+	PARTS:
+	Not (in = sel, out = notSel);
+	And (a = a, b = notSel, out = Mux1);
+	And (a = b, b = sel, out = Mux2);
+	Or  (a = Mux1, b = Mux2, out = out);
+}
