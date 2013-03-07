@@ -1,4 +1,8 @@
-elements-of-computing-systems
+Nand2Tetris
 =============================
 
-my logs of studying the elements of computing systems
+## The Elements of Computing Systems: Building a Modern Computer from First Principles
+
+thank u for 'http://www.nand2tetris.org' :)
+
+![Alt text](img.jpg)
