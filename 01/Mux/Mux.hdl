@@ -1,5 +1,5 @@
 /*
- * Mux gate. 
+ * Mux gate.
  * MUX = (or (and a (not sel)) (and b sel))
 */
 

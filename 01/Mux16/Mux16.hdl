@@ -1,5 +1,5 @@
 /*
- * Mux16 gate. 
+ * Mux16 gate.
  * MUX16 = (define (fact a b sel)
  *			(if (= sel 0)
  *			a

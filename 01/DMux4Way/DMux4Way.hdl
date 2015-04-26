@@ -1,5 +1,5 @@
 /*
- * DMux4Way gate. 
+ * DMux4Way gate.
  * {a,b,c,d} = {in,0,0,0} if sel == 00
  *             {0,in,0,0} if sel == 01
  *             {0,0,in,0} if sel == 10

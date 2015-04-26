@@ -1,5 +1,5 @@
 /*
- * DMux8Way gate. 
+ * DMux8Way gate.
  * {a,b,c,d,e,f,g,h} = {in,0,0,0,0,0,0,0} if sel == 000
  *                     {0,in,0,0,0,0,0,0} if sel == 001
  *                     etc.

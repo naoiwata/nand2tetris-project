@@ -1,5 +1,5 @@
 /*
- * 16-Bit Not gate. 
+ * 16-Bit Not gate.
  * NOT = (nand a b)
 */
 

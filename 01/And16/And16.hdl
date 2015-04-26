@@ -1,5 +1,5 @@
 /*
- * 16-Bit And gate. 
+ * 16-Bit And gate.
  * And = (nand a b)
 */
 

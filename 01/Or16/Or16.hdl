@@ -1,5 +1,5 @@
 /*
- * 16-Bit Or gate. 
+ * 16-Bit Or gate.
  * Or = (nand (not a) (not b)
 */
 

@@ -1,5 +1,5 @@
 /*
- * Mux8Way16 gate. 
+ * Mux8Way16 gate.
  * out = a if sel == 00
  *       b if sel == 01
  *       c if sel == 10
